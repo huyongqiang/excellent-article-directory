@@ -29,6 +29,8 @@
 
 ![欢迎大家关注我的微信公众号，和我交流分享](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)
 
+欢迎大家通过微信公众交流
+
 
 ## 郭霖
 
