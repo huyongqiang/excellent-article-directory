@@ -42,6 +42,11 @@
 
 ### 郭霖公众号最新文章
 
+- 2018-12-19 [Flutter中的Image入门讲解](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY1H-gb1VXt*S*tXXKN9kddxv6T5ZMjShfHOdax3NHYmhATuGpml91pXgN117hfJ1ivN9t27l1c2St*YFhiIE2qE=)
+- 2018-12-17 [一起玩转Android项目中的字节码](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY06hqiPUpVU1sLVMIbBYilwrX9oCPxlLG3I0HbTO4GpCRcEMV75RtsGtOmlL9gpDNJfqoJjvRHidzOKjyBLDQm8=)
+- 2018-12-15 [今天继续发福利！](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwYyah4PPlR7H7hNtTCnKSNWqn*fRI-eqgipqP2HBRMIYyzdOzopz9srk*Zsjv8qv9sDKXhVJFtKqy3BuDDHJj0No=)
+- 2018-12-14 [两年沉淀，我的开源项目已上线！](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY3ZhJYJo*LbZDKrLCo8MbCr71TeKmCFw9x6OJLmWCipuNCsZBLputnSWyOlFNY*mfNQaXejFNhw4El6WPs1Y6cQ=)
+
 * 2018-09-21 [利用的Vision Library实现人脸检测功能](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650244008&idx=1&sn=58af23340e1a7b785cae8ba3c3f3b155&chksm=886372c7bf14fbd18174203fdfb92d1b6ac3556f2db3ba12c1fb6f8132d9968a0b686b0928d6&mpshare=1&scene=1&srcid=0922kbGNgCOMA3FjyjHVFFas#rd)
 * 2018-09-20 [Android Tinker热补丁接入教程实战](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650243994&idx=1&sn=9cc9d585c7ce535864b573cab34bf324&chksm=886372f5bf14fbe38ce4618dba192108c38ae749fef2664c869bf161d1f61e06d0feba12146a&mpshare=1&scene=1&srcid=0922ebhictiF0GLAVYCSNT4C#rd)
 * 2018-09-28 [Android高仿抖音照片电影功能](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650243981&idx=1&sn=4c7caa3df2c04ef71bf66165973d9e33&chksm=886372e2bf14fbf4b64fdc1f590e235fffb535dc135ddd73bfbb3fc4345858705f6dc9926cc4&mpshare=1&scene=1&srcid=0922TXx3oei9wnrRGNbJ8MWS#rd)
@@ -170,6 +175,26 @@
 
 ### 鸿洋公众号最新文章
 
+- 2018-12-18 [忍不住推荐一个作者给大家](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9CyLXS9WISwCSCaeCgR9hah8z9iuzaVa-lWg5w7yLiK5sNkw*cIkvSi74yUCUBWNmm*I6rBZs2cHp*gi5zJabQs=)
+- 2018-12-17 [图文搞懂RecyclerView 的各部分组成 | RecyclerView进阶](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9AiaN-iZlYLHgkAZqyfo9b3gAzOTlMRuLeedviSz0SYwQDH0fI0542oeo52LZb06TaerguUiiOhO7I6WVxj4gbQ=)
+- 2018-12-15 [看懂英文技术文档，每天只需要10分钟做这件事……](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9OLCtJe*BWwwTM9dv0*1HdvAZKHZWtO9PEU4DChCdpgKCuD8FzrnQROUdWvf8jplbYDSx3gGYu7E8Ok-koDr9ZY=)
+- 2018-12-14 [两年沉淀，郭神的项目已上线](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9I8kMyZjQI-x7ngiWv5KCDqyQ2d7zzBcKII5ZeUCHNw-QFM9k4bm1sn0UPF6c91RJxKwOBM4z252NvHshk8vDWY=)
+- 2018-12-13 [一篇文章搞懂Android组件化](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9EoUrmSIRdQWs8cU7VR0S9S3PJEbGCHdzOxpzp60eD766RQi-sQpkq82FE*f*3tNPPBI3nchAmR7bWldQhuFFds=)
+- 2018-12-12 [Android 如何优雅地实现@人功能？——仿微博、仿QQ、仿微信、零入侵、高扩展性](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9Ime7Y3gX6QiQ4YNk81eZy7gAejUURpczOvsX8PsLW9u-dRNiqlN-EI9jN59Ayl2fIsDLJOC6aS1tsHFj3fm29k=) 
+- 2018-12-11 [日常使用Git，这些问题你遇到过吗？](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9AJ35flEwWBcqMfbxpKrjqRL1Z0K2oec2IUW6sQRzwN2ybKgh7JWj63FjV3-2kZOC6VCbtEoV--5nxU61NBq8i0=)
+- 2018-12-10 [同学，你的系统Toast可能需要修复一下](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9INLQ9vlGpI2B3-E1EjywCQ54f9730tgwxTTdYSmV4YpIkk*RYdZLRatitJ7OO*KM2b4oWjUxPkhTDopm4RKjGw=)
+- 2018-12-09 [周末特供，程序员提升的8个利器！](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9LKmz27n9KQtePnbkDPiPb-l3tFj3DdkC63f*2nuCpkVMiwoIXHhSlqEEsg3bQIIj5nBQeGr6kAuSBCMrWWZBUE=)
+- 2018-12-07 [不到100行代码实现左右对齐TextView](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9Lw3BbB13PjWh7LNTawWY8AEeHaS07zayx1SPMK2CpJXg2pA52r9iKCgsbnrSAsY8rrrGOf*UqYA62RXoRrg3LU=)
+- 2018-12-06 [RecyclerView库中被我们忽略的部分](https://mp.weixin.qq.com/s/Vt__FGCcWftanYW5ndyXmA)
+- 2018-12-05 [Android高斯模糊你所不知道的坑](https://mp.weixin.qq.com/s/WP8kUvcyHETlkDIdvGktdA)
+- 2018-12-04 [安卓6.0到9.0适配](https://mp.weixin.qq.com/s/K9eIN0veW96sjXoczHms5w)
+- 2018-12-03 [ 非 UI 线程能调用 View.invalidate()？](https://mp.weixin.qq.com/s/r3AWeYafyMEc1-g8BWEHBg)
+- 2018-11-30 [ Android关于Color你所知道的和不知道的一切](https://mp.weixin.qq.com/s/bNFcDEPuR4-RAMQAyI9T6w)
+- 2018-11-29 [封装bilibili播放器 , 仿抖音视频播放效果](https://mp.weixin.qq.com/s/Vr9Z661RGEMWqf2_AWJxIA)
+- 2018-11-28 [ 从问题出发，解析Activity、Window、View三者关系](https://mp.weixin.qq.com/s/oFVBrIAUwD0wnlSfm-95bQ)
+- 2018-11-27 [一些提高Android开发效率的经验和技巧](https://mp.weixin.qq.com/s/iYSbTg60WRW59vXkl3qurA)
+- 2018-11-24 [ 从0搭建Jetpack版的WanAndroid客户端](https://mp.weixin.qq.com/s/BHxn4nGgfum-yI8ckI8baw)
+
 * 2018-09-20 [实现各种展开、收回TextView需求](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826300&idx=1&sn=3eb504f7b6fa9aacf3752cb232cac8eb&chksm=80b7b2a2b7c03bb489cd697c39d8b588afb8c4dc1e5ffa0ec0255f19ae54eda72f93a123f2fc&mpshare=1&scene=1&srcid=0922TnR9EFZJHnhjDf6xkgwH#rd)
 * 2018-09-19 [无需自定义View，彻底解放shape，selector吧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826297&idx=1&sn=f32df9278c87211885f8cd3eb6b20339&chksm=80b7b2a7b7c03bb11deb595ae6340e40483e829997f3dc5e936031fed0da6f5c82adfcb15a54&mpshare=1&scene=1&srcid=09224Ekja1EXF8BSwvTWWo7Q#rd)
 * 2018-09-18 [我平时学习的一个方法](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826292&idx=1&sn=eb4891b75e33c79bbdce99b94de846dc&chksm=80b7b2aab7c03bbc3a6ffcb80c4f5107592e7563d89dad5da5d6a5b14c875b1e80e9e9b06a3c&mpshare=1&scene=1&srcid=0922laM8iqyn3Og4qpR0FSTu#rd)
@@ -253,6 +278,32 @@
 [⇧ 返回顶部](#概述)
 
 ### 任玉刚公众号最新文章
+
+- 2018-12-18 [当 Dagger2 撞上 ViewModel](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjWMVKkvE2ZH4sO5NAMPR89XIiloNPJHoE6IsDSzSgXBdqnYa6LueHXByPrhfA3LAMA7QGE7*eJPLOJEFz3ZiDzs=)
+- 2018-12-17 [我对程序员35岁这道坎的看法](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjcHwTcQfUJAwzXcMv-34ewP0-QWzY-*CfFQUEG93zojKXjt87zZYGQSlB5kA12tUm2qWp1aGEHXnk25Yl47QEow=)
+- 2018-12-16 [如何和 hr 斗智斗勇](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjUhW**pC0JaON90naQ*DKYxK2Nm0qprgdW*yXJcwdFAPZ1psPnDEbQqTE*4dZrL2hQMsMIRDrlDSCizmivriUcI=)
+- 2018-12-12 [再送 25 本签名书，25 个限量版书签](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyje9Ze*ATt9lRpDDwydi5*4EaBOd*OOkQiokV8IlOAgmaGBO1*R9ctAfPR5CQU7vW*ggE5CXYSTqqppRCwg0PiPg=)
+- 2018-12-10 [Flutter学习指南：封装 API 插件 | 文末附中奖名单](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjes-LypiijWZNtI*yVqMW8cPcW*ytOc8T9vVfMQCi65ExoFzfF8hX20L3XO7q0FzBD-PqdhNxXcApi4V2hGEsTo=)
+- 2018-12-09 [给大家说个事](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjdLvWBBnu7jJa28cOvZ9MifwKgoJbRV5Xzubxw8OgvnwsVf1u9aqV81n8BVj1sEeW0ovy7YffyhLQtjCHs6wKzU=)
+- 2018-12-06 [送 15 本书](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjcSAMf5BnQdoQMN3SLhjKdvA0lhwEefGkFrze5zIOcDmdUL2ilR1oieq247HXu69GFoJGSZdh7g0OfkB7ae1Xys=)
+- 2018-12-03 [在 Retrofit 和 OkHttp 中使用网络缓存，提高访问效率](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjdQ10hfHUGWDmszFsmE5fSS2UBEWFSyMJI9oUIb7Q9dRx164KBOOhelhovXJBPKG19GYrpzv*ZFYteeGdPLag-M=)
+- 2018-11-28 [这一次，我是来感谢大家的](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjSCUz8ARHViKRKHLKPrYD05GOdP24LHWvCN3VCHJPCYfHCmgQTR*2UIHgDM2MRrXyBzy9amR96C0BVoC3Iw*tQE=)
+- 2018-11-26 [使用 MVVM 开发 GitHub 客户端，以及对编程的一些思考](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjUIbcdgYXRLrE0UqUu60kFmCO5IjXJJLdLZqw6JOrQ7a2g0OXBA*P-RUdtgaimJG96bbelmg3sBRJhWhHFqxaI8=)
+- 2018-11-14 [如果套路了你，不好意思，我是故意的](https://mp.weixin.qq.com/s/sNfRNDzzIcCpFWDmQ6PRXg)
+- 2018-11-07 [Flutter学习指南：交互、手势和动画](https://mp.weixin.qq.com/s/653zL1YvuMwysKu907EQ-g)
+- 2018-10-30 [Flutter学习指南：UI布局和控件](https://mp.weixin.qq.com/s/V0cL9bSTM65HTIJ4CU4Cow)
+- 2018-10-22 [Flutter学习指南：熟悉Dart语言](https://mp.weixin.qq.com/s/mtm9PKv2G_hSgbvXTbQtTA)
+- 2018-10-19 [Flutter学习指南：编写第一个应用](https://mp.weixin.qq.com/s/JMMepbKWAf9XrhtTbWtSLg)
+- 2018-10-15 [大前端时代，我为什么支持前端程序员学习原生技术](https://mp.weixin.qq.com/s/-ixdoxm_-dX_loXjqob9Nw)
+- 2018-10-12 [我身边读研的程序员，没有一个不后悔的](https://mp.weixin.qq.com/s/DXKwYn7pMwQ-oVdBJPBYbA)
+- 2018-10-10 [大前端摧毁了原生开发者的一切，但是我们应该开心](https://mp.weixin.qq.com/s/yZIlcfFI9Fysdq5UadaXfA)
+- 2018-09-30 [【文末福利】安卓巴士全球开发者论坛北京站即将开启！](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493231&idx=2&sn=bbe2a9a662f6ad66270cee70646b23d9&chksm=8eec8510b99b0c066cb5738aa571b47547fb6abee0b9e0978b4c0faddf802f332e14423c01d1&scene=38#wechat_redirect)
+
+- 2018-09-28 [ 给大家推荐个开源项目 : T-MVVM](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493225&idx=1&sn=6a30f94ae42858ed16233577bf2d3b5e&chksm=8eec8516b99b0c00e4c4c147d3c7004cacdeb6f37919135d891cbc56eedf82a017d7540821b6&scene=38#wechat_redirect)
+- 2018-09-27 [据说能读懂这篇文章的都是聪明人！](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493224&idx=1&sn=1a69e9fa4137d761c7091a5ee6fa209a&chksm=8eec8517b99b0c01825736f96a69f9ff36c97922e62b758cb8d8c2a0e9261914859218023dcf&scene=38#wechat_redirect)
+- 2018-09-26 [你的 APP 为何启动那么慢？](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493211&idx=1&sn=51e3bc5da44f5200fa6a481a7e850317&chksm=8eec8524b99b0c32e5c28ea4e4592debdc11268a32c57e890aed71328f2c10dd2172348cfa07&scene=38#wechat_redirect)
+- 2018-09-25 [和大家说几件事](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493206&idx=1&sn=a5dd26caf4ed3518b1d5296f938368c7&chksm=8eec8529b99b0c3fd15e8bb8bc1421caf30ed6b3a0cf7340dd284ec1451c0bbbb50db42837e1&scene=38#wechat_redirect)
+- 2018-09-24 [中秋节终极福利等你来领！](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493202&idx=1&sn=67c47f48a4f3085efdff3149502bbd45&chksm=8eec852db99b0c3b6e9112276a79d6ea155636caa908a86dd86ae8f287580e2e1f5960b285f6&scene=38#wechat_redirect)
 
 * 2018-09-22 [全网首发 | 2018 Google 开发者大会现场纪要](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493192&idx=1&sn=32ae7ba9f97e0c1a5d7488c3694ab0a6&chksm=8eec8537b99b0c213382777f6ccd65ea83ed90c6f572366d12b965af4fc0117f0a8764c12ec7&mpshare=1&scene=1&srcid=0922rgeJ9SgJUkjMzjsr0sc6#rd)
 * 2018-09-21 [一个屌丝程序员的悲惨校招](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493187&idx=1&sn=d7e12e5549c4e4fc25f11bcc7bda194b&chksm=8eec853cb99b0c2a260dde5aab4de7dc0f965f9012b958ec51aa3103aa7267df1c14e71e5c53&mpshare=1&scene=1&srcid=0922feByXbHNoFE7AJqVCdVq#rd)
