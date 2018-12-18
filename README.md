@@ -25,11 +25,21 @@
   - [历史文章](https://github.com/sydmobile/excellent-article-directory/blob/master/%E4%BB%BB%E7%8E%89%E5%88%9A/%E4%BB%BB%E7%8E%89%E5%88%9A.md)  
 
 
+<div align = "center">
+    ![](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)
+    欢迎大家通过微信公众号交流
+
+    
+
+    
 
 
-![欢迎大家关注我的微信公众号，和我交流分享](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)
 
-欢迎大家通过微信公众交流
+</div>
+
+
+
+
 
 
 ## 郭霖
