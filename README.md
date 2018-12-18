@@ -26,14 +26,8 @@
 
 
 <div align = "center">
-    ![](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)
+    <img src="https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png" width=""/><br/>
     欢迎大家通过微信公众号交流
-
-    
-
-    
-
-
 
 </div>
 
