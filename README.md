@@ -2,9 +2,7 @@
 
 **纯手工整理希望大家能够多多支持，提供更多优秀的资料分享给大家！努力打造全网最优秀的资源汇集地!**
 
-
-
-![欢迎大家关注我的微信公众号，和我交流分享](http://upload-images.jianshu.io/upload_images/6737388-1eca35c3d7e04a1e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+ 
 
 ## 概述
 
@@ -25,7 +23,11 @@
 - :book: [任玉刚](#任玉刚)
   - [任玉刚公众号最新文章](#任玉刚公众号最新文章)
   - [历史文章](https://github.com/sydmobile/excellent-article-directory/blob/master/%E4%BB%BB%E7%8E%89%E5%88%9A/%E4%BB%BB%E7%8E%89%E5%88%9A.md)  
-  
+
+
+
+
+![欢迎大家关注我的微信公众号，和我交流分享](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)
 
 
 ## 郭霖
