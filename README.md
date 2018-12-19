@@ -23,7 +23,9 @@
 - :book: [任玉刚](#任玉刚)
   - [任玉刚公众号最新文章](#任玉刚公众号最新文章)
   - [历史文章](https://github.com/sydmobile/excellent-article-directory/blob/master/%E4%BB%BB%E7%8E%89%E5%88%9A/%E4%BB%BB%E7%8E%89%E5%88%9A.md)  
-
+- :books: [优秀文章](#优秀文章)
+- :blue_book: [文章分类](#文章分类)
+  - [完整项目](#完整项目)
 
 <div align = "center">
     <img src="https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png" width=""/><br/>
@@ -42,7 +44,9 @@
 
 ### 郭霖公众号最新文章
 
-- 2018-12-19 [Flutter中的Image入门讲解](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY1H-gb1VXt*S*tXXKN9kddxv6T5ZMjShfHOdax3NHYmhATuGpml91pXgN117hfJ1ivN9t27l1c2St*YFhiIE2qE=)
+- 2018-12-19 [应用越来越广泛的Fragment](https://mp.weixin.qq.com/s/mCMYC-CJqxWBE_9HLQXSNA)
+
+- 2018-12-18 [Flutter中的Image入门讲解](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY1H-gb1VXt*S*tXXKN9kddxv6T5ZMjShfHOdax3NHYmhATuGpml91pXgN117hfJ1ivN9t27l1c2St*YFhiIE2qE=)
 - 2018-12-17 [一起玩转Android项目中的字节码](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY06hqiPUpVU1sLVMIbBYilwrX9oCPxlLG3I0HbTO4GpCRcEMV75RtsGtOmlL9gpDNJfqoJjvRHidzOKjyBLDQm8=)
 - 2018-12-15 [今天继续发福利！](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwYyah4PPlR7H7hNtTCnKSNWqn*fRI-eqgipqP2HBRMIYyzdOzopz9srk*Zsjv8qv9sDKXhVJFtKqy3BuDDHJj0No=)
 - 2018-12-14 [两年沉淀，我的开源项目已上线！](https://mp.weixin.qq.com/s?timestamp=1545112882&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6QJplu0mBnc9RpiR9gLExyqaKck4Ktwa7Y2k8ca7gvo4mD03hNX7UZACvC2uCWZwY3ZhJYJo*LbZDKrLCo8MbCr71TeKmCFw9x6OJLmWCipuNCsZBLputnSWyOlFNY*mfNQaXejFNhw4El6WPs1Y6cQ=)
@@ -175,7 +179,9 @@
 
 ### 鸿洋公众号最新文章
 
-- 2018-12-18 [忍不住推荐一个作者给大家](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9CyLXS9WISwCSCaeCgR9hah8z9iuzaVa-lWg5w7yLiK5sNkw*cIkvSi74yUCUBWNmm*I6rBZs2cHp*gi5zJabQs=)
+- 2018-12-19 [一篇文本跳动控件，为你打开一扇大门，学会这两点心得，控件你也会写](https://mp.weixin.qq.com/s/X9WSP57wB-EGOgFnlpyvGw)
+
+- 2018-12-18 [忍不住推荐一个作者给大家](https://mp.weixin.qq.com/s/r9erOzjVNg8WJ6zTfvMzRw)
 - 2018-12-17 [图文搞懂RecyclerView 的各部分组成 | RecyclerView进阶](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9AiaN-iZlYLHgkAZqyfo9b3gAzOTlMRuLeedviSz0SYwQDH0fI0542oeo52LZb06TaerguUiiOhO7I6WVxj4gbQ=)
 - 2018-12-15 [看懂英文技术文档，每天只需要10分钟做这件事……](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9OLCtJe*BWwwTM9dv0*1HdvAZKHZWtO9PEU4DChCdpgKCuD8FzrnQROUdWvf8jplbYDSx3gGYu7E8Ok-koDr9ZY=)
 - 2018-12-14 [两年沉淀，郭神的项目已上线](https://mp.weixin.qq.com/s?timestamp=1545113111&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6UAQK1JCRxn*ZHXakzwYzD797drwDXmbGIcGSk7lMvt3NseSo042oz4TX70EHUCo9I8kMyZjQI-x7ngiWv5KCDqyQ2d7zzBcKII5ZeUCHNw-QFM9k4bm1sn0UPF6c91RJxKwOBM4z252NvHshk8vDWY=)
@@ -279,6 +285,8 @@
 
 ### 任玉刚公众号最新文章
 
+- [一张保单搞定各种保障？“黑科技”深度评测热销保险产品](https://mp.weixin.qq.com/s/HyM1WfpEcd20Zu49Oeevtg)
+
 - 2018-12-18 [当 Dagger2 撞上 ViewModel](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjWMVKkvE2ZH4sO5NAMPR89XIiloNPJHoE6IsDSzSgXBdqnYa6LueHXByPrhfA3LAMA7QGE7*eJPLOJEFz3ZiDzs=)
 - 2018-12-17 [我对程序员35岁这道坎的看法](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjcHwTcQfUJAwzXcMv-34ewP0-QWzY-*CfFQUEG93zojKXjt87zZYGQSlB5kA12tUm2qWp1aGEHXnk25Yl47QEow=)
 - 2018-12-16 [如何和 hr 斗智斗勇](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjUhW**pC0JaON90naQ*DKYxK2Nm0qprgdW*yXJcwdFAPZ1psPnDEbQqTE*4dZrL2hQMsMIRDrlDSCizmivriUcI=)
@@ -339,3 +347,29 @@
 * 2018-07-05 [如何通俗理解设计模式及其思想?](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492895&idx=1&sn=1bb90c14d5e9693e819d3b0366f28da4&chksm=8eec8660b99b0f760790dfead84f6ab4095207d60e0ad5739c0f0724519ad1dc41dc738166a6&mpshare=1&scene=1&srcid=0922hWAcRt7zPvNgPDaftIYk#rd)
 * 2018-07-04 [仿 FlipBoard 直板翻页效果](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492889&idx=1&sn=2a1ac39bd363d779c2f20b63abc82149&chksm=8eec8666b99b0f702b95b10e64f3eb4c2d16d81b36137760c8f3b33ab7c78afc8462207bfa56&mpshare=1&scene=1&srcid=0922ELH09L0UOYu4cwGl6R3d#rd)
 * 2018-07-03 [MVC、MVP、MVVM，我到底该怎么选？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492883&idx=1&sn=2c206702fe1dd357ed65052bb9080488&chksm=8eec866cb99b0f7aabe917b584eee71dea51a57b22d54fac96cfbd420a0f53340350ae978321&mpshare=1&scene=1&srcid=0922YYJgLL3WPhZxMnN0qBKm#rd)
+
+[↑回到顶部](#概述)
+
+## 优秀文章
+
+- [Material Design 大奖 2018 结果揭晓](https://mp.weixin.qq.com/s/Q3sik-lu66Cp_HtIjGJYZw)
+- [码个蛋文章汇集](https://mp.weixin.qq.com/s/6gjB59eFND6pb20Qj_0GwA)
+
+
+
+
+
+[↑回到顶部](#概述)
+
+## 文章分类
+
+### 完整项目
+
+
+
+
+
+[↑回到顶部](#概述)
+
+### Android Studio
+
