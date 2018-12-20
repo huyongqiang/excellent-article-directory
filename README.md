@@ -26,6 +26,8 @@
 - :books: [优秀文章](#优秀文章)
 - :blue_book: [文章分类](#文章分类)
   - [完整项目](#完整项目)
+  - [Flutter](#Flutter)
+  - [蓝牙](#蓝牙)
 
 <div align = "center">
     <img src="https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png" width=""/><br/>
@@ -43,6 +45,8 @@
 [⇧ 返回顶部](#概述)
 
 ### 郭霖公众号最新文章
+
+- 2018-12-20 [Android修炼之检测非SDK接口](https://mp.weixin.qq.com/s/zlnbb28n3nj1GKkStvLJew)
 
 - 2018-12-19 [应用越来越广泛的Fragment](https://mp.weixin.qq.com/s/mCMYC-CJqxWBE_9HLQXSNA)
 
@@ -179,6 +183,8 @@
 
 ### 鸿洋公众号最新文章
 
+- 2018-12-20 [换个方式实现hugo | 从 Java 字节码到 ASM 实践](https://mp.weixin.qq.com/s/JPr4ndye9ibyy4FMpv2yPg)
+
 - 2018-12-19 [一篇文本跳动控件，为你打开一扇大门，学会这两点心得，控件你也会写](https://mp.weixin.qq.com/s/X9WSP57wB-EGOgFnlpyvGw)
 
 - 2018-12-18 [忍不住推荐一个作者给大家](https://mp.weixin.qq.com/s/r9erOzjVNg8WJ6zTfvMzRw)
@@ -285,7 +291,9 @@
 
 ### 任玉刚公众号最新文章
 
-- [一张保单搞定各种保障？“黑科技”深度评测热销保险产品](https://mp.weixin.qq.com/s/HyM1WfpEcd20Zu49Oeevtg)
+- 2018-12-20 [8 篇文章，再学不会 Flutter 你来打我！](https://mp.weixin.qq.com/s/4G6hWW6GxnmV_j6d2rVBpA)
+
+- 2018-12-19 [一张保单搞定各种保障？“黑科技”深度评测热销保险产品](https://mp.weixin.qq.com/s/HyM1WfpEcd20Zu49Oeevtg)
 
 - 2018-12-18 [当 Dagger2 撞上 ViewModel](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjWMVKkvE2ZH4sO5NAMPR89XIiloNPJHoE6IsDSzSgXBdqnYa6LueHXByPrhfA3LAMA7QGE7*eJPLOJEFz3ZiDzs=)
 - 2018-12-17 [我对程序员35岁这道坎的看法](https://mp.weixin.qq.com/s?timestamp=1545114062&src=3&ver=1&signature=bus4rRbRjuLAGbBLAW5W6SfSkX5vDyfBqDMX2O0GA8MASa8QVSQJWK4unrnVsfhrfC6xCtgVHRqDnaFBhssyjcHwTcQfUJAwzXcMv-34ewP0-QWzY-*CfFQUEG93zojKXjt87zZYGQSlB5kA12tUm2qWp1aGEHXnk25Yl47QEow=)
@@ -352,8 +360,13 @@
 
 ## 优秀文章
 
-- [Material Design 大奖 2018 结果揭晓](https://mp.weixin.qq.com/s/Q3sik-lu66Cp_HtIjGJYZw)
-- [码个蛋文章汇集](https://mp.weixin.qq.com/s/6gjB59eFND6pb20Qj_0GwA)
+[我把这两年的精华文章都整理出来了](https://mp.weixin.qq.com/s/1OSxdYuKByCwVTe-8FgrFA)
+
+[Material Design 大奖 2018 结果揭晓](https://mp.weixin.qq.com/s/Q3sik-lu66Cp_HtIjGJYZw)
+
+[码个蛋文章汇集](https://mp.weixin.qq.com/s/6gjB59eFND6pb20Qj_0GwA)
+
+[Android开发 - 获取系统输入法高度的正确姿势](https://mp.weixin.qq.com/s/0hkCcegxcP43hef3e0HeYA)
 
 
 
@@ -366,6 +379,26 @@
 ### 完整项目
 
 
+
+
+
+[↑回到顶部](#概述)
+
+### Flutter
+
+[8 篇文章，再学不会 Flutter 你来打我！](https://mp.weixin.qq.com/s/4G6hWW6GxnmV_j6d2rVBpA)
+
+
+
+[↑回到顶部](#概述)
+
+### 蓝牙
+
+[Android BLE 蓝牙开发详细解读](https://mp.weixin.qq.com/s/iD3mmXUdbTfRLNADciqwDQ)
+
+### 适配
+
+[Android今日头条UI适配完善版](https://mp.weixin.qq.com/s/c3nWmYgBU2w-Pa6Wtw69nA)
 
 
 
